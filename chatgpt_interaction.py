@@ -1,6 +1,10 @@
 import openai
 
-# set project_api_key to a string containing your project's chatgpt api key
+'''
+   set project_api_key to a string containing your project's chatgpt api key
+   you can get your api key at the link below. Be aware, it costs money. there may be a new user credit available.
+   https://platform.openai.com/api-keys
+'''
 #project_api_key = 'thislongstringisanexampleofanapikeystringthatyouwoulduseasthevalueforthisvariable'
 project_api_key = ''
 
